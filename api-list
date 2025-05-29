@@ -1,34 +1,89 @@
 {
 "page":1,"results":[
 {
-"title":"A2Z",
-"source":"https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8",
+"title":"PH-A2Z",
+"source":"https://signatureentertainment-popflix-1-gb.rakuten.wurl.tv/3000.m3u8",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ZSUgKll76wXD8ZhusVbQBrbdXQIXN_Eb9g&s"
 },
 {
-"title":"CLTV 36",
+"title":"PH-CLTV 36",
 "source":"https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo43_O6SlO9Q9KOWWE3sPFnQC8zfo__q5aUg&s"
 },
 {
-"title":"INC TV",
+"title":"US-INC TV",
 "source":"https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/tracks-v1a1/mono.ts.m3u8",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqwlLwXSpZFoWshKHxIp8adRUI0leVPXc_ZQ&s"
 },
 {
-"title":"Ligaw",
-"source":"false",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqwlLwXSpZFoWshKHxIp8adRUI0leVPXc_ZQ&s"
+"title":"US-CLASSIC MOVIES",
+"source":"https://30a-tv.com/feeds/720p/52.m3u8",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXQjGYdtFPExdYpOi9nnGTOFFA35sa4VeW8A&s"
 },
 {
-"title":"Ligaw",
-"source":"false",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqwlLwXSpZFoWshKHxIp8adRUI0leVPXc_ZQ&s"
+"title":"US-BIBLE MOVIES",
+"source":"https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr2CHBU-2RTW5maiovHfy5DM75OPsXzaCyug&s"
 },
 {
-"title":"Ligaw",
-"source":"false",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqwlLwXSpZFoWshKHxIp8adRUI0leVPXc_ZQ&s"
+"title":"US-DRIVE IN MOVIES",
+"source":"https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/0b88b72c-b906-46cd-80e4-91b8b9d515f0/2.m3u8",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7UKoOGeA7jTqMdQ8xt377avLKg9tkdd7k2A&s"
+},
+{
+"title":"UK-DESIPLAY TV",
+"source":"https://amg00857-amg00857c1-rakuten-us-4656.playouts.now.amagi.tv/playlist1080-p.m3u8",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAKFrz6V6RKEpLts88A9Qk95AigBHkD5fhpQ&s"
+},
+{
+"title":"UK-DISCOVER FILM",
+"source":"https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/2000.m3u8",
+"image":"https://thefilmcollaborative.org/distripedia/digitaldistributionguide/img/vod/discover_film.jpg"
+},
+{
+"title":"UK-POPFLIX MOVIES",
+"source":"https://signatureentertainment-popflix-1-gb.rakuten.wurl.tv/3000.m3u8",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTyLg8JAMcRtZdJgsKtko7XsI6S_SlYCt2hw&s"
+},
+{
+"title":"UK-FILMZIE MOVIES",
+"source":"https://filmzie-filmzie-1-eu.rakuten.wurl.tv/3000.m3u8",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvwRnQs7hwNPnOZHrHqg-A9dv7y6YIRl-V6w&s"
+},
+{
+"title":"US-3ABN KIDS",
+"source":"'https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/chunklist_w163254533_b2328000_slen.m3u8",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHsvm4fAYd0q2mtmjuX8BCz8DX3iErtgPRjQ&s"
+},
+{
+"title":"IN-ANIMAX",
+"source":"https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx9g_dQAvo0nxoa5SfnhvmHrqB-d5_OrdIUA&s"
+},
+{
+"title":"IN-MH ONE MUSIC",
+"source":"https://mhlive.paramountinfosystem.com/mhonemusictest/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQENdzmZR9CSgi_E2rRzLykPDqnCgeMBLKykw&s"
+},
+{
+"title":"US-24 HOUR FREE MOVIES",
+"source":"https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145/variant/22099472.m3u8'",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAxWFs_JUN5287YTPk6Gs6EGQom8nFc05X2w&s"
+},
+{
+"title":"IN-ZB CINEMA",
+"source":"https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.m3u8",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTww9H_X9iZtFeHmELTqD5gwD-wbHJoWEdEWw&s"
+},
+{
+"title":"IN-ZB CARTOON",
+"source":"https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.m3u8",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbvhjNOZimM2e5Pkx-nv0N5Zqrz299C-EHjA&s"
+},
+{
+"title":"US-CARTOON CLASSICS",
+"source":"https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/ed30ced8-3a32-4a1f-9ae9-e9e83c2c9329/0.m3u8",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQValG8Snvwf96ge096HvUh3adPZDtR3CQzeg&s"
 }
 ]
 }
