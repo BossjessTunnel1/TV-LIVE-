@@ -103,7 +103,7 @@
 {
 "title":"Anime HD",
 "source":"https://moviesphereuk-samsunguk.amagi.tv/1080p-vtt/index.m3u8",
-"image":"image-servers/test.jpg"
+"image":".image-servers/test.jpg"
 }
 ]
 }
